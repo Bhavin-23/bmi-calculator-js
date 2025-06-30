@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#result {
+  margin-top: 15px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.bmi-green {
+  color: #155724;
+  background-color: #d4edda;
+}
+
+.bmi-yellow {
+  color: #856404;
+  background-color: #fff3cd;
+}
+
+.bmi-red {
+  color: #721c24;
+  background-color: #f8d7da;
+}
